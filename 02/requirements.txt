@@ -1,0 +1,6 @@
+gymnasium
+Pillow
+matplotlib==3.7.0
+gymnasium[classic-control]
+gymnasium[box2d]
+numpy<2
